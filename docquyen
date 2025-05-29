@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta property="og:title" content="Chat Zalo với Quocnam">
+  <meta property="og:description" content="Nhấn để được tư vấn nhanh qua Zalo.">
+  <meta property="og:image" content="https://i.postimg.cc/6QV3GK8D/Ba-ng-gia-to-t-ha-ng-o-c-quye-n.jpg">
+  <meta property="og:url" content="https://tqnam00.github.io/spam-fb-libera/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Redirect đến Zalo</title>
+  <script>
+    window.location.replace("https://zalo.me/0972556780");
+  </script>
+</head>
+<body>
+  <p>Nếu không được chuyển hướng, nhấn vào đây: 
+    <a href="https://zalo.me/0972556780">Chat Zalo với Quocnam</a>
+  </p>
+</body>
+</html>
